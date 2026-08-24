@@ -1,7 +1,0 @@
-$if !twailbackend{
-    $include("implementations_early.h", "early")
-    $include("implementations.c")
-    $if windows{
-        $link("ws2_32")
-    }
-}

@@ -1,8 +1,0 @@
-repeat(100, i = 0){
-    print(i)
-}
-
-var int amount = 10
-repeat(amount){
-    print("Hello")
-}

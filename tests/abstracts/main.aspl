@@ -1,7 +1,0 @@
-var child = new Child()
-child.one()
-child.two()
-child.three()
-child.four()
-child.five()
-child.six()

@@ -1,7 +1,0 @@
-import aspl.parser.ast
-
-// This class is only for nodes that can never be expressions
-[public]
-[abstract]
-class Statement extends Node{
-}

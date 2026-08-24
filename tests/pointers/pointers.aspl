@@ -1,4 +1,0 @@
-var integer a = 0
-var int* p = &a
-print(p)
-assert *p == 0

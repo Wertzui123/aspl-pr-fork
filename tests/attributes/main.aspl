@@ -1,2 +1,0 @@
-var Example example = new Example()
-example.hello()

@@ -1,3 +1,0 @@
-The source code for libgc is provided as an amalgamation (`gc.c`) here; this was inspired by the way the V monorepo distributes libgc.
-The amalgamation has been created using [this script](https://gist.github.com/spaceface777/34d25420f2dc4953fb7864f44a211105).
-This keeps the ASPL monorepo cleaner, smaller and libgc easier to include.

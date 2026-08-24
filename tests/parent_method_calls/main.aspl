@@ -1,3 +1,0 @@
-var c = new Child()
-assert c.getValue() == 42
-assert c.getValueWithArg(3) == 35

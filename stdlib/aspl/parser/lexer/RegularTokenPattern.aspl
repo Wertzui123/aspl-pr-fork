@@ -1,8 +1,0 @@
-[public]
-class RegularTokenPattern extends TokenPattern{
-
-	method construct(string pattern){ // TODO: This overwrite shouldn't be required
-		this.pattern = pattern
-	}
-	
-}

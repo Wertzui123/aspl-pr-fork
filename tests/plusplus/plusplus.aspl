@@ -1,4 +1,0 @@
-var int i = 0
-i++
-assert i == 1
-assert i++ == 2

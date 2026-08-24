@@ -1,6 +1,0 @@
-$if windows{
-    print("Windows")
-}
-$if !windows{
-    print("Not on windows")
-}
